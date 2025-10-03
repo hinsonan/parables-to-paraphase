@@ -1,4 +1,2 @@
-openai-whisper
 ipywidgets
 transformers
-ffmpeg-python
